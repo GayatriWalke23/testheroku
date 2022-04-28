@@ -1,0 +1,57 @@
+global_config:
+  seed: 5959
+  device: "cpu"
+  is_mp: True
+---
+data_config:
+  data_path: "./data/"
+  dataset_name: "MNIST"
+  num_shards: 200
+  iid: False
+---
+fed_config:
+  C: 1
+  K: 2
+  R: 50
+  E: 10
+  B: 10
+  criterion: torch.nn.CrossEntropyLoss
+  optimizer: torch.optim.SGD
+  actormodel_path: Best_Actor_Weights/actormodel.pth
+  criticmodel_path: Best Critic_Weights/criticmodel.pth
+---
+optim_config:
+  lr: 0.01
+  momentum: 0.9
+---
+init_config:
+  init_type: "xavier"
+  init_gain: 1.0
+  gpu_ids: []
+  # gpu_ids: [0, 1, 2]
+---
+model_config:
+  actor:
+    name: ActorNetwork
+    state_size: 29
+
+  critic:
+    name: CriticNetwork
+    state_size: 29
+    action_size: 3
+---
+log_config:
+  log_path: ./log/
+  log_name:  "FL.log"
+  tb_port: 8080
+  tb_host: "localhost"
+---
+conn_config:
+  broker: broker.emqx.io
+  broker_port: 1883
+  topic_global_model: global model
+  topic_model_updates: model updates
+  username: emqx
+  password: public
+  actorModelPath: ./src/models/actormodel.pth
+  criticModelPath: ./src/models/criticmodel.pth

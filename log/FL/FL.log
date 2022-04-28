@@ -1,0 +1,832 @@
+[INFO](2022/04/26/ 04:03:29 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/26/ 04:13:32 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/26/ 04:13:32 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/26/ 04:13:32 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 10:12:47 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 10:12:47 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 10:12:47 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:12:31 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:12:31 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:12:31 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:33:52 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:33:52 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:33:52 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:34:15 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:34:15 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:34:15 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:39:04 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:39:04 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:39:04 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:39:55 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:39:55 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:39:55 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:42:32 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:42:32 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:42:32 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:42:42 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 11:42:42 AM) [Round: 0000] Start sending file to the selected client rl_client-801...!
+[INFO](2022/04/27/ 11:53:22 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:53:22 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:53:22 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:53:32 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 11:53:32 AM) [Round: 0000] Start sending file to the selected client rl_client-669...!
+[INFO](2022/04/27/ 11:54:22 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:54:22 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:54:22 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:54:32 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 11:54:32 AM) [Round: 0000] Start sending file to the selected client rl_client-178...!
+[INFO](2022/04/27/ 11:54:58 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:54:58 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:54:58 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:55:08 AM) [Round: 0000] ...successfully copied models to all 0 client instances!
+[INFO](2022/04/27/ 11:55:18 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 11:55:18 AM) [Round: 0000] Start sending file to the selected client rl_client-482...!
+[INFO](2022/04/27/ 11:55:53 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:55:53 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:55:53 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:56:03 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 11:56:03 AM) [Round: 0000] Start sending file to the selected client rl_client-653...!
+[INFO](2022/04/27/ 11:57:17 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 11:57:17 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 11:57:17 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 11:57:27 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 11:57:27 AM) [Round: 0000] Start sending file to the selected client rl_client-990...!
+[INFO](2022/04/27/ 12:00:14 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:00:14 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:00:14 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:00:24 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:00:24 PM) [Round: 0000] Start sending file to the selected client rl_client-583...!
+[INFO](2022/04/27/ 12:03:22 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:03:22 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:03:22 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:03:32 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:03:32 PM) [Round: 0000] Start sending file to the selected client rl_client-974...!
+[INFO](2022/04/27/ 12:03:32 PM) [Round: 0000] ...client rl_client-974 error occured while transmitting actor model
+[INFO](2022/04/27/ 12:04:24 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:04:24 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:04:24 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:04:34 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:04:34 PM) [Round: 0000] Start sending file to the selected client rl_client-783...!
+[INFO](2022/04/27/ 12:04:34 PM) [Round: 0000] ...client rl_client-783 error occured while transmitting actor model
+[INFO](2022/04/27/ 12:05:31 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:05:31 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:05:31 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:05:41 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:05:41 PM) [Round: 0000] Start sending file to the selected client rl_client-460...!
+[INFO](2022/04/27/ 12:07:38 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:07:38 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:07:38 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:07:49 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:07:49 PM) [Round: 0000] Start sending file to the selected client rl_client-49...!
+[INFO](2022/04/27/ 12:08:25 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:08:25 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:08:25 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:08:35 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:08:35 PM) [Round: 0000] Start sending file to the selected client rl_client-747...!
+[INFO](2022/04/27/ 12:12:49 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:12:49 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:12:49 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:12:59 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:12:59 PM) [Round: 0000] Start sending file to the selected client rl_client-50...!
+[INFO](2022/04/27/ 12:14:59 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:14:59 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:14:59 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:15:09 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:15:09 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:15:10 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:15:10 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:15:20 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:15:20 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:15:20 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:15:20 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:15:30 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:15:30 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:15:30 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:15:30 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:15:40 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:15:40 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:15:40 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:15:40 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:15:50 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:15:51 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:15:51 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:15:51 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:16:01 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:16:01 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:16:01 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:16:01 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:16:11 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:16:11 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:16:11 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:16:11 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:16:21 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:16:22 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:16:22 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:16:22 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:16:32 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:16:32 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:16:32 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:16:32 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:16:42 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:16:42 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:16:42 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:16:42 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:16:52 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:16:53 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:16:53 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:16:53 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:17:03 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:17:03 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:17:03 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:17:03 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:17:13 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:17:13 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:17:13 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:17:13 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:17:23 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:17:24 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:17:24 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:17:24 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:17:34 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:17:34 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:17:35 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:17:35 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:17:45 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:17:45 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:17:45 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:17:45 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:17:55 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:17:55 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:17:55 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:17:55 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:18:05 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:18:05 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:18:05 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:18:06 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:18:16 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:18:16 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:18:16 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:18:16 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:18:26 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:18:26 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:18:26 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:18:26 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:18:36 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:18:36 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:18:36 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:18:36 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:18:47 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:18:47 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:18:47 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:18:47 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:18:57 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:18:57 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:18:57 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:18:57 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:19:07 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:19:07 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:19:07 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:19:07 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:19:17 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:19:17 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:19:17 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:19:18 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:19:28 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:19:28 PM) [Round: 0000] Start sending file to the selected client rl_client-422...!
+[INFO](2022/04/27/ 12:19:28 PM) [Round: 0000] ...client rl_client-422 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:41:13 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:41:13 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:41:13 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:41:24 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:41:24 PM) [Round: 0000] Start sending file to the selected client rl_client-238...!
+[INFO](2022/04/27/ 12:41:24 PM) [Round: 0000] ...client rl_client-238 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:41:24 PM) [Round: 0000] ...client rl_client-238 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:41:34 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:41:34 PM) [Round: 0000] Start sending file to the selected client rl_client-238...!
+[INFO](2022/04/27/ 12:41:34 PM) [Round: 0000] ...client rl_client-238 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:41:34 PM) [Round: 0000] ...client rl_client-238 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:41:44 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:41:44 PM) [Round: 0000] Start sending file to the selected client rl_client-238...!
+[INFO](2022/04/27/ 12:41:44 PM) [Round: 0000] ...client rl_client-238 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:47:17 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:47:17 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:47:17 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:47:27 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:47:27 PM) [Round: 0000] Start sending file to the selected client rl_client-362...!
+[INFO](2022/04/27/ 12:47:27 PM) [Round: 0000] ...client rl_client-362 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:47:55 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 12:47:55 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 12:47:55 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 12:48:05 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:48:05 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:48:05 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:48:05 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:48:15 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:48:15 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:48:15 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:48:15 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:48:25 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:48:25 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:48:25 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:48:26 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:48:36 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:48:36 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:48:36 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:48:36 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:48:46 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:48:46 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:48:46 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:48:46 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:48:56 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:48:56 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:48:56 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:48:56 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:49:06 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:49:06 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:49:06 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:49:07 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:49:17 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:49:17 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:49:17 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:49:17 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:49:27 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:49:27 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:49:27 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:49:27 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:49:37 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:49:37 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:49:37 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:49:37 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:49:47 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:49:47 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:49:47 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:49:48 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:49:58 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:49:58 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:49:58 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:49:58 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:50:08 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:50:08 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:50:08 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:50:08 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:50:18 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:50:18 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:50:18 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:50:18 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:50:28 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:50:28 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:50:28 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:50:29 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:50:39 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:50:39 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:50:39 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:50:39 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:50:49 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:50:49 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:50:49 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 12:50:49 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted critic model
+[INFO](2022/04/27/ 12:50:59 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 12:50:59 PM) [Round: 0000] Start sending file to the selected client rl_client-438...!
+[INFO](2022/04/27/ 12:50:59 PM) [Round: 0000] ...client rl_client-438 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:14:44 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 02:14:44 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 02:14:44 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 02:14:54 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:14:55 PM) [Round: 0000] Start sending file to the selected client rl_client-111...!
+[INFO](2022/04/27/ 02:14:55 PM) [Round: 0000] ...client rl_client-111 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:14:55 PM) [Round: 0000] ...client rl_client-111 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:15:05 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:15:05 PM) [Round: 0000] Start sending file to the selected client rl_client-111...!
+[INFO](2022/04/27/ 02:15:05 PM) [Round: 0000] ...client rl_client-111 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:25:33 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 02:25:33 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 02:25:33 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 02:25:43 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:25:43 PM) [Round: 0000] Start sending file to the selected client rl_client-523...!
+[INFO](2022/04/27/ 02:27:04 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 02:27:04 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 02:27:04 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 02:27:14 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:27:14 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:27:14 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:27:14 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:27:25 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:27:25 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:27:25 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:27:25 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:27:35 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:27:35 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:27:35 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:27:35 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:27:45 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:27:46 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:27:46 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:27:46 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:27:56 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:27:56 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:27:56 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:27:56 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:28:06 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:28:06 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:28:07 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:28:07 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:28:17 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:28:17 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:28:17 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:28:17 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:28:27 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:28:27 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:28:28 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:28:28 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:28:38 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:28:38 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:28:38 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:28:39 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:28:49 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:28:49 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:28:49 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:28:50 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:29:00 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:29:00 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:29:00 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:29:00 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:29:10 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:29:10 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:29:11 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:29:11 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:29:21 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:29:21 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:29:21 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:29:21 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:29:32 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:29:32 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:29:32 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:29:32 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:29:42 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:29:43 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:29:43 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:29:43 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:29:53 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:29:53 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:29:54 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:29:54 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:30:04 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:30:04 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:30:04 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:30:05 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:30:15 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:30:15 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:30:15 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:30:16 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:30:26 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:30:26 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:30:26 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:30:27 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:30:37 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:30:37 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:30:37 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:30:37 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:30:48 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:30:48 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:30:48 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:30:48 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:30:58 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:30:59 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:30:59 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:30:59 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:31:09 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:31:09 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:31:10 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:31:10 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:31:20 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:31:20 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:31:20 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:31:21 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:31:31 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:31:31 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:31:31 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:31:32 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:31:42 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:31:42 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:31:42 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:31:43 PM) [Round: 0000] ...client rl_client-785 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:31:53 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:31:53 PM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/27/ 02:40:39 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 02:40:39 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 02:40:39 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 02:40:49 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:40:49 PM) [Round: 0000] Start sending file to the selected client rl_client-562...!
+[INFO](2022/04/27/ 02:40:49 PM) [Round: 0000] ...client rl_client-562 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:40:50 PM) [Round: 0000] ...client rl_client-562 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:41:00 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:41:00 PM) [Round: 0000] Start sending file to the selected client rl_client-562...!
+[INFO](2022/04/27/ 02:57:08 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 02:57:08 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 02:57:08 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 02:57:18 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:57:18 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:57:18 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:57:18 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:57:29 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:57:29 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:57:29 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:57:29 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:57:39 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:57:39 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:57:39 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:57:39 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:57:50 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:57:50 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:57:50 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:57:50 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:58:00 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:58:00 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:58:00 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:58:00 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:58:11 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:58:11 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:58:11 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:58:11 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:58:21 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:58:21 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:58:21 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:58:21 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:58:32 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:58:32 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:58:32 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:58:32 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:58:42 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:58:42 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:58:42 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:58:42 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:58:53 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:58:53 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:58:53 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:58:53 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:59:03 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:59:03 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:59:03 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:59:03 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:59:14 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:59:14 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:59:14 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:59:14 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:59:24 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:59:25 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:59:25 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:59:25 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:59:35 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:59:35 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:59:35 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:59:36 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:59:46 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:59:46 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:59:46 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:59:46 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 02:59:57 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 02:59:57 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 02:59:57 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted actor model
+[INFO](2022/04/27/ 02:59:57 PM) [Round: 0000] ...client rl_client-524 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:00:07 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:00:07 PM) [Round: 0000] Start sending file to the selected client rl_client-524...!
+[INFO](2022/04/27/ 03:05:15 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:05:16 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:05:16 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:05:26 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:05:26 PM) [Round: 0000] Start sending file to the selected client rl_client-602...!
+[INFO](2022/04/27/ 03:05:26 PM) [Round: 0000] ...client rl_client-602 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:12:54 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:12:54 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:12:54 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:12:58 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:13:05 PM) [Round: 0000] ...successfully copied models to all 0 client instances!
+[INFO](2022/04/27/ 03:13:15 PM) [Round: 0000] ...successfully copied models to all 0 client instances!
+[INFO](2022/04/27/ 03:13:17 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:13:25 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:13:25 PM) [Round: 0000] Start sending file to the selected client rl_client-648...!
+[INFO](2022/04/27/ 03:13:25 PM) [Round: 0000] ...client rl_client-648 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:13:25 PM) [Round: 0000] ...client rl_client-648 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:13:35 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:13:35 PM) [Round: 0000] Start sending file to the selected client rl_client-648...!
+[INFO](2022/04/27/ 03:13:36 PM) [Round: 0000] ...client rl_client-648 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:14:47 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:14:47 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:14:47 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:14:57 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:14:58 PM) [Round: 0000] Start sending file to the selected client rl_client-192...!
+[INFO](2022/04/27/ 03:14:58 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:14:58 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:15:08 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:15:08 PM) [Round: 0000] Start sending file to the selected client rl_client-192...!
+[INFO](2022/04/27/ 03:15:08 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:15:08 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:15:18 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:15:19 PM) [Round: 0000] Start sending file to the selected client rl_client-192...!
+[INFO](2022/04/27/ 03:15:19 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:15:19 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:15:29 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:15:29 PM) [Round: 0000] Start sending file to the selected client rl_client-192...!
+[INFO](2022/04/27/ 03:15:29 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:15:29 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:15:40 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:15:40 PM) [Round: 0000] Start sending file to the selected client rl_client-192...!
+[INFO](2022/04/27/ 03:15:40 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:15:40 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted critic model
+[INFO](2022/04/27/ 03:15:50 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:15:50 PM) [Round: 0000] Start sending file to the selected client rl_client-192...!
+[INFO](2022/04/27/ 03:15:50 PM) [Round: 0000] ...client rl_client-192 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:16:54 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:16:54 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:16:54 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:18:00 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:18:00 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:18:00 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:18:08 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:18:08 PM) [Round: 0000] Start sending file to the selected client rl_client-425...!
+[INFO](2022/04/27/ 03:18:08 PM) [Round: 0000] ...client rl_client-425 file successfully transmitted actor model
+[INFO](2022/04/27/ 03:30:33 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:30:33 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:30:33 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:32:31 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:32:31 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:32:31 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:32:35 PM) [Round: 0000] ...successfully copied models to all 0 client instances!
+[INFO](2022/04/27/ 03:32:35 PM) [Round: 0001] Select clients...!
+[INFO](2022/04/27/ 03:33:06 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 03:33:06 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 03:33:06 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 03:33:19 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 03:33:19 PM) [Round: 0000] Start sending file to the selected client rl_client-284...!
+[INFO](2022/04/27/ 04:54:53 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/27/ 04:54:53 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/27/ 04:54:53 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/27/ 04:54:59 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/27/ 04:54:59 PM) [Round: 0000] Start sending file to the selected client rl_client-217...!
+[INFO](2022/04/27/ 04:54:59 PM) [Round: 0000] ...client rl_client-217 file successfully transmitted actor model
+[INFO](2022/04/28/ 08:00:51 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 08:00:51 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 08:00:51 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 08:01:18 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 08:01:18 AM) [Round: 0000] Start sending file to the selected client rl_client-353...!
+[INFO](2022/04/28/ 08:01:18 AM) [Round: 0000] ...client rl_client-353 file successfully transmitted actor model
+[INFO](2022/04/28/ 09:39:47 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 09:39:47 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 09:39:47 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 09:39:52 AM) [Round: 0000] ...successfully copied models to all 0 client instances!
+[INFO](2022/04/28/ 09:39:52 AM) [Round: 0001] Select clients...!
+[INFO](2022/04/28/ 09:40:06 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 09:40:06 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 09:40:06 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 09:40:17 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 09:40:17 AM) [Round: 0000] Start sending file to the selected client rl_client-15...!
+[INFO](2022/04/28/ 09:40:17 AM) [Round: 0000] ...client rl_client-15 file successfully transmitted actor model
+[INFO](2022/04/28/ 10:10:15 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 10:10:15 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 10:10:15 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 10:10:25 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 10:10:25 AM) [Round: 0000] Start sending file to the selected client rl_client-785...!
+[INFO](2022/04/28/ 10:10:26 AM) [Round: 0000] ...client rl_client-785 file successfully transmitted actor model
+[INFO](2022/04/28/ 10:11:16 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 10:11:16 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 10:11:16 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 10:11:23 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 10:11:23 AM) [Round: 0000] Start sending file to the selected client rl_client-871...!
+[INFO](2022/04/28/ 10:12:13 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 10:12:13 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 10:12:13 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:02:19 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:02:19 AM) [Round: 0000] Start sending file to the selected client rl_client-280...!
+[INFO](2022/04/28/ 11:02:19 AM) [Round: 0000] ...client rl_client-280 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:04:01 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:04:01 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:04:01 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:04:16 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:04:16 AM) [Round: 0000] Start sending file to the selected client rl_client-361...!
+[INFO](2022/04/28/ 11:04:16 AM) [Round: 0000] ...client rl_client-361 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:06:05 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:06:05 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:06:05 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:06:12 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:06:12 AM) [Round: 0000] Start sending file to the selected client rl_client-136...!
+[INFO](2022/04/28/ 11:06:12 AM) [Round: 0000] ...client rl_client-136 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:06:34 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:06:34 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:06:34 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:06:45 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:06:45 AM) [Round: 0000] Start sending file to the selected client rl_client-539...!
+[INFO](2022/04/28/ 11:06:46 AM) [Round: 0000] ...client rl_client-539 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:09:26 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:09:26 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:09:26 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:09:41 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:09:41 AM) [Round: 0000] Start sending file to the selected client rl_client-319...!
+[INFO](2022/04/28/ 11:09:41 AM) [Round: 0000] ...client rl_client-319 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:12:14 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:12:14 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:12:15 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:12:30 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:12:30 AM) [Round: 0000] Start sending file to the selected client rl_client-543...!
+[INFO](2022/04/28/ 11:12:30 AM) [Round: 0000] ...client rl_client-543 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:35:08 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:35:08 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:35:08 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:35:38 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:35:38 AM) [Round: 0000] Start sending file to the selected client rl_client-593...!
+[INFO](2022/04/28/ 11:35:38 AM) [Round: 0000] ...client rl_client-593 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:35:58 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:35:58 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:35:58 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:36:11 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:36:11 AM) [Round: 0000] Start sending file to the selected client rl_client-360...!
+[INFO](2022/04/28/ 11:36:32 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:36:32 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:36:32 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:36:40 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:36:40 AM) [Round: 0000] Start sending file to the selected client rl_client-43...!
+[INFO](2022/04/28/ 11:36:40 AM) [Round: 0000] ...client rl_client-43 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:42:15 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:42:15 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:42:15 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:42:37 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:42:37 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:42:37 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:42:53 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:42:53 AM) [Round: 0000] Start sending file to the selected client rl_client-953...!
+[INFO](2022/04/28/ 11:42:53 AM) [Round: 0000] ...client rl_client-953 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:43:26 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:43:26 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:43:26 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:43:54 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:43:54 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:43:54 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:44:27 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:44:27 AM) [Round: 0000] Start sending file to the selected client rl_client-781...!
+[INFO](2022/04/28/ 11:44:27 AM) [Round: 0000] ...client rl_client-781 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:44:54 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:44:54 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:44:54 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:45:08 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:45:08 AM) [Round: 0000] Start sending file to the selected client rl_client-559...!
+[INFO](2022/04/28/ 11:45:08 AM) [Round: 0000] ...client rl_client-559 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:45:08 AM) [Round: 0000] ...client rl_client-559 file successfully transmitted critic model
+[INFO](2022/04/28/ 11:45:08 AM) [Round: 0001] Select clients...!
+[INFO](2022/04/28/ 11:45:08 AM) [Round: 0001] ...successfully copied models to selected 2 client instances!
+[INFO](2022/04/28/ 11:45:09 AM) [Round: 0001] Start sending file to the selected client rl_client-559...!
+[INFO](2022/04/28/ 11:45:09 AM) [Round: 0001] ...client rl_client-559 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:53:08 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:53:08 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:53:08 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:53:23 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:53:23 AM) [Round: 0000] Start sending file to the selected client rl_client-701...!
+[INFO](2022/04/28/ 11:53:23 AM) [Round: 0000] ...client rl_client-701 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:53:23 AM) [Round: 0000] ...client rl_client-701 file successfully transmitted critic model
+[INFO](2022/04/28/ 11:54:06 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:54:06 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:54:06 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:54:22 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:54:22 AM) [Round: 0000] Start sending file to the selected client rl_client-753...!
+[INFO](2022/04/28/ 11:54:22 AM) [Round: 0000] ...client rl_client-753 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:54:22 AM) [Round: 0000] ...client rl_client-753 file successfully transmitted critic model
+[INFO](2022/04/28/ 11:56:58 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:56:58 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:56:58 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:57:16 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:57:17 AM) [Round: 0000] Start sending file to the selected client rl_client-958...!
+[INFO](2022/04/28/ 11:57:17 AM) [Round: 0000] ...client rl_client-958 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:59:36 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 11:59:36 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 11:59:36 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 11:59:52 AM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 11:59:52 AM) [Round: 0000] Start sending file to the selected client rl_client-106...!
+[INFO](2022/04/28/ 11:59:52 AM) [Round: 0000] ...client rl_client-106 file successfully transmitted actor model
+[INFO](2022/04/28/ 11:59:52 AM) [Round: 0000] ...client rl_client-106 file successfully transmitted critic model
+[INFO](2022/04/28/ 12:07:17 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 12:07:17 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 12:07:18 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 12:07:37 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 12:07:37 PM) [Round: 0000] Start sending file to the selected client rl_client-948...!
+[INFO](2022/04/28/ 12:07:37 PM) [Round: 0000] ...client rl_client-948 file successfully transmitted actor model
+[INFO](2022/04/28/ 12:07:38 PM) [Round: 0000] ...client rl_client-948 file successfully transmitted critic model
+[INFO](2022/04/28/ 12:07:38 PM) [Round: 0001] ...successfully copied models to selected 2 client instances!
+[INFO](2022/04/28/ 12:07:38 PM) [Round: 0001] Start sending file to the selected client rl_client-948...!
+[INFO](2022/04/28/ 01:04:37 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 01:04:37 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 01:04:37 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 01:18:53 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 01:18:53 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 01:18:53 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 01:19:51 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 01:19:51 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 01:19:51 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 02:00:49 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 02:00:49 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 02:00:49 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 02:09:12 PM) [Round: 0000] ...successfully copied models to all 1 client instances!
+[INFO](2022/04/28/ 02:09:12 PM) [Round: 0000] Start sending file to the selected client rl_client-331...!
+[INFO](2022/04/28/ 02:09:12 PM) [Round: 0000] ...client rl_client-331 file successfully transmitted actor model
+[INFO](2022/04/28/ 02:09:13 PM) [Round: 0000] ...client rl_client-331 file successfully transmitted critic model
+[INFO](2022/04/28/ 02:09:13 PM) [Round: 0001] ...successfully copied models to selected 2 client instances!
+[INFO](2022/04/28/ 02:09:14 PM) [Round: 0001] Start sending file to the selected client rl_client-331...!
+[INFO](2022/04/28/ 02:09:14 PM) [Round: 0001] ...client rl_client-331 file successfully transmitted actor model
+[INFO](2022/04/28/ 02:09:15 PM) [Round: 0001] ...client rl_client-331 file successfully transmitted critic model
+[ERROR](2022/04/28/ 02:09:15 PM) Exception on /foo [POST]
+Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\ADMIN\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\ADMIN\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ADMIN\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:/Users/ADMIN/Desktop/TORCS_DDPG-master/app.py", line 17, in foo
+    exec(open('main.py').read())
+  File "<string>", line 66, in <module>
+  File "C:\Users\ADMIN\Desktop\TORCS_DDPG-master\FL_Server\server.py", line 234, in fit
+    self.train_federated_model()
+  File "C:\Users\ADMIN\Desktop\TORCS_DDPG-master\FL_Server\server.py", line 270, in train_federated_model
+    actorModels,criticmodels = self.collectModelsFromSelectedClients(
+  File "C:\Users\ADMIN\Desktop\TORCS_DDPG-master\FL_Server\server.py", line 154, in collectModelsFromSelectedClients
+    models = workhorse.map(
+  File "C:\Users\ADMIN\anaconda3\lib\multiprocessing\pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "C:\Users\ADMIN\anaconda3\lib\multiprocessing\pool.py", line 771, in get
+    raise self._value
+  File "C:\Users\ADMIN\anaconda3\lib\multiprocessing\pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "C:\Users\ADMIN\anaconda3\lib\multiprocessing\pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "C:\Users\ADMIN\Desktop\TORCS_DDPG-master\FL_Server\server.py", line 168, in collectModelClient
+    result,result2 = self.clients[selectedClientInd].receiveActorModel()
+ValueError: too many values to unpack (expected 2)
+[INFO](2022/04/28/ 02:09:15 PM) 127.0.0.1 - - [28/Apr/2022 14:09:15] "[35m[1mPOST /foo HTTP/1.1[0m" 500 -

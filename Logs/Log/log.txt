@@ -1,0 +1,33 @@
+Log Date :   2022-04-27 22:53:13.721017
+
+policy_lr :  0.001
+critic_lr :  0.01
+state_dim :  29
+action_dim :  3
+HIDDEN1_UNITS_actor :  300
+HIDDEN2_UNITS_actor :  600
+HIDDEN1_UNITS_critic :  300
+HIDDEN2_UNITS_critic :  600
+buffer_size :  100000
+batch_size :  32
+gamma :  0.9999
+tau :  0.001
+ou_explore_rate :  100000.0
+epoch :  2000
+epsilon :  1
+epsilon_min :  0.07
+max_steps :  100000
+OU_steer_mu :  0.0
+OU_steer_theta :  0.6
+OU_steer_sigma :  0.3
+OU_throttle_mu :  0.5
+OU_throttle_theta :  1.0
+OU_throttle_sigma :  0.1
+OU_brake_mu :  -0.1
+OU_brake_theta :  1.0
+OU_brake_sigma :  0.05
+OU_brake_stoch_mu :  0.2
+OU_brake_stoch_theta :  1.0
+OU_brake_stoch_sigma :  0.1
+
+Trial : [ 1 ] is completed with reward : [ 8225.065014052581 ] , damage : [ 0.0 ] and lasted [ 451 ] steps.
