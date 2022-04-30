@@ -854,3 +854,11 @@ ValueError: too many values to unpack (expected 2)
 [WELCOME] Unfolding configurations...!
 [INFO](2022/04/30/ 12:33:00 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
 [INFO](2022/04/30/ 12:33:00 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/30/ 02:30:09 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/30/ 02:30:09 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/30/ 02:30:09 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/30/ 02:30:46 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/30/ 02:30:46 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/30/ 02:30:46 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!

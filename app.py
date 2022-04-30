@@ -11,7 +11,7 @@ def index():
 @app.route('/foo', methods=['GET', 'POST'])
 def foo():
     #print("hi")
-    exec(open('FEDAVG/main.py').read())
+    exec(open('main.py').read())
     '''execute whatever code you want when the button gets clicked here'''
     return render_template('index.html')
 
