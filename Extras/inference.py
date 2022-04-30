@@ -1,5 +1,5 @@
 # Torcs Environment
-from Torcs_setup.gym_torcs import TorcsEnv
+from gym_torcs import TorcsEnv
 import numpy as np
 
 # Init Logging System
@@ -9,8 +9,8 @@ from Utilities.Params import HYPERPARAMS
 from Brain.Algorithms import DDPG 
 
 # Create DDPG Agent
-actor_path_choosen  = '../Best_Actor_Weights/actormodel_best_1.pth'
-critic_path_choosen = 'Best_Critic_Weights/criticmodel.pth'
+actor_path_choosen  = 'Best_Actor_Weights/aggregated_actor.pth'
+critic_path_choosen = 'Best Critic_Weights/aggregated_critic.pth'
 saved_weights = {'actor_path':actor_path_choosen,
                  'critic_path':critic_path_choosen}
 Agent = DDPG(HYPERPARAMS,saved_weights)

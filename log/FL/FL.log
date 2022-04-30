@@ -830,3 +830,27 @@ Traceback (most recent call last):
     result,result2 = self.clients[selectedClientInd].receiveActorModel()
 ValueError: too many values to unpack (expected 2)
 [INFO](2022/04/28/ 02:09:15 PM) 127.0.0.1 - - [28/Apr/2022 14:09:15] "[35m[1mPOST /foo HTTP/1.1[0m" 500 -
+[INFO](2022/04/28/ 10:06:23 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 10:06:23 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 10:06:23 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 10:07:19 PM) [Round: 0000] ...successfully copied models to all 3 client instances!
+[INFO](2022/04/28/ 10:07:19 PM) [Round: 0000] Start sending file to the selected client rl_client-679...!
+[INFO](2022/04/28/ 10:07:19 PM) [Round: 0000] Start sending file to the selected client rl_client-229...!
+[INFO](2022/04/28/ 10:07:19 PM) [Round: 0000] Start sending file to the selected client rl_client-116...!
+[INFO](2022/04/28/ 10:31:05 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/28/ 10:31:05 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/28/ 10:31:05 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/28/ 10:31:28 PM) [Round: 0000] ...successfully copied models to all 3 client instances!
+[INFO](2022/04/28/ 10:31:28 PM) [Round: 0000] Start sending file to the selected client rl_client-502...!
+[INFO](2022/04/28/ 10:31:28 PM) [Round: 0000] Start sending file to the selected client rl_client-892...!
+[INFO](2022/04/28/ 10:31:28 PM) [Round: 0000] Start sending file to the selected client rl_client-789...!
+[INFO](2022/04/29/ 09:34:32 AM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/29/ 09:34:32 AM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/29/ 09:34:32 AM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!
+[INFO](2022/04/30/ 12:33:00 PM) 
+[WELCOME] Unfolding configurations...!
+[INFO](2022/04/30/ 12:33:00 PM) [Round: 0000] ...successfully initialized actor model (# parameters: 191403)!
+[INFO](2022/04/30/ 12:33:00 PM) [Round: 0000] ...successfully initialized critic model (# parameters: 554403)!

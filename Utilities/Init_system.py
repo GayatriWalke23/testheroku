@@ -10,15 +10,15 @@ def start_sys(paths,if_scratch=True):
     log_path     = paths['log_path']
     
     # Remove olders if exist
-    remove_folders(critic_path)
-    remove_folders(policy_path)
-    remove_folders(log_path)
-    remove_folders(rp_path)
+    #remove_folders(critic_path)
+    #remove_folders(policy_path)
+    #remove_folders(log_path)
+    #remove_folders(rp_path)
 
-    create_folders(critic_path)
-    create_folders(policy_path)
-    create_folders(log_path)
-    create_folders(rp_path)
+    #create_folders(critic_path)
+    #create_folders(policy_path)
+    #create_folders(log_path)
+    #create_folders(rp_path)
 
 
 def create_folders(path):

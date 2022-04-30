@@ -1,4 +1,4 @@
-Log Date :   2022-04-27 22:53:13.721017
+Log Date :   2022-04-29 12:41:32.013246
 
 policy_lr :  0.001
 critic_lr :  0.01
@@ -30,4 +30,71 @@ OU_brake_stoch_mu :  0.2
 OU_brake_stoch_theta :  1.0
 OU_brake_stoch_sigma :  0.1
 
-Trial : [ 1 ] is completed with reward : [ 8225.065014052581 ] , damage : [ 0.0 ] and lasted [ 451 ] steps.
+Trial : [ 1 ] is completed with reward : [ 4204.328101503935 ] , damage : [ 0.0 ] and lasted [ 204 ] steps.
+Trial : [ 2 ] is completed with reward : [ 2819.9983949483926 ] , damage : [ 0.0 ] and lasted [ 186 ] steps.
+Trial : [ 1 ] is completed with reward : [ 2871.359976832856 ] , damage : [ 0.0 ] and lasted [ 180 ] steps.
+Trial : [ 2 ] is completed with reward : [ 4453.066413289049 ] , damage : [ 0.0 ] and lasted [ 210 ] steps.
+Trial : [ 3 ] is completed with reward : [ 4989.4634898479235 ] , damage : [ 0.0 ] and lasted [ 220 ] steps.
+Trial : [ 3 ] is completed with reward : [ 6840.8831081885755 ] , damage : [ 0.0 ] and lasted [ 270 ] steps.
+Trial : [ 4 ] is completed with reward : [ 5574.4636472540005 ] , damage : [ 0.0 ] and lasted [ 243 ] steps.
+Trial : [ 2 ] is completed with reward : [ 6749.268015103611 ] , damage : [ 0.0 ] and lasted [ 403 ] steps.
+Trial : [ 4 ] is completed with reward : [ 4297.1613489487145 ] , damage : [ 0.0 ] and lasted [ 231 ] steps.
+Trial : [ 5 ] is completed with reward : [ 3644.092916510833 ] , damage : [ 0.0 ] and lasted [ 193 ] steps.
+Trial : [ 3 ] is completed with reward : [ 4163.507984590637 ] , damage : [ 0.0 ] and lasted [ 199 ] steps.
+Trial : [ 5 ] is completed with reward : [ 4318.003304642647 ] , damage : [ 0.0 ] and lasted [ 236 ] steps.
+Trial : [ 6 ] is completed with reward : [ 4680.7761550237 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 4 ] is completed with reward : [ 5020.479424224446 ] , damage : [ 0.0 ] and lasted [ 234 ] steps.
+Trial : [ 6 ] is completed with reward : [ 4828.48677751555 ] , damage : [ 0.0 ] and lasted [ 231 ] steps.
+Trial : [ 5 ] is completed with reward : [ 4991.716776758141 ] , damage : [ 0.0 ] and lasted [ 225 ] steps.
+Trial : [ 7 ] is completed with reward : [ 5488.7728016186975 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 6 ] is completed with reward : [ 3400.033141115977 ] , damage : [ 0.0 ] and lasted [ 201 ] steps.
+Trial : [ 8 ] is completed with reward : [ 3355.368968374699 ] , damage : [ 0.0 ] and lasted [ 197 ] steps.
+Trial : [ 7 ] is completed with reward : [ 3340.57009401693 ] , damage : [ 0.0 ] and lasted [ 197 ] steps.
+Trial : [ 8 ] is completed with reward : [ 5685.704784328071 ] , damage : [ 0.0 ] and lasted [ 233 ] steps.
+Trial : [ 9 ] is completed with reward : [ 5180.470877646303 ] , damage : [ 0.0 ] and lasted [ 232 ] steps.
+Trial : [ 7 ] is completed with reward : [ 5005.572183071899 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 8 ] is completed with reward : [ 5165.708215077033 ] , damage : [ 0.0 ] and lasted [ 235 ] steps.
+Trial : [ 10 ] is completed with reward : [ 4685.916187448304 ] , damage : [ 0.0 ] and lasted [ 235 ] steps.
+Trial : [ 9 ] is completed with reward : [ 5171.071237617816 ] , damage : [ 0.0 ] and lasted [ 234 ] steps.
+Trial : [ 10 ] is completed with reward : [ 5331.914361809726 ] , damage : [ 0.0 ] and lasted [ 244 ] steps.
+Trial : [ 11 ] is completed with reward : [ 5106.104911336305 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 9 ] is completed with reward : [ 4983.9008225131 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 11 ] is completed with reward : [ 5584.8451347982 ] , damage : [ 0.0 ] and lasted [ 241 ] steps.
+Trial : [ 10 ] is completed with reward : [ 5012.513690345865 ] , damage : [ 0.0 ] and lasted [ 232 ] steps.
+Trial : [ 12 ] is completed with reward : [ 4944.731291456964 ] , damage : [ 0.0 ] and lasted [ 228 ] steps.
+Trial : [ 12 ] is completed with reward : [ 3821.259600596747 ] , damage : [ 0.0 ] and lasted [ 241 ] steps.
+Trial : [ 11 ] is completed with reward : [ 4659.927176880662 ] , damage : [ 0.0 ] and lasted [ 231 ] steps.
+Trial : [ 13 ] is completed with reward : [ 4919.551097217366 ] , damage : [ 0.0 ] and lasted [ 228 ] steps.
+Trial : [ 12 ] is completed with reward : [ 3965.3517356509155 ] , damage : [ 0.0 ] and lasted [ 208 ] steps.
+Trial : [ 13 ] is completed with reward : [ 3986.047813102219 ] , damage : [ 0.0 ] and lasted [ 209 ] steps.
+Trial : [ 14 ] is completed with reward : [ 4055.1232871094307 ] , damage : [ 0.0 ] and lasted [ 205 ] steps.
+Trial : [ 14 ] is completed with reward : [ 4731.126446069209 ] , damage : [ 0.0 ] and lasted [ 223 ] steps.
+Trial : [ 15 ] is completed with reward : [ 4614.719834994874 ] , damage : [ 0.0 ] and lasted [ 217 ] steps.
+Trial : [ 13 ] is completed with reward : [ 4828.365652657269 ] , damage : [ 0.0 ] and lasted [ 223 ] steps.
+Trial : [ 15 ] is completed with reward : [ 4283.308123356329 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 14 ] is completed with reward : [ 4775.017756517787 ] , damage : [ 0.0 ] and lasted [ 225 ] steps.
+Trial : [ 16 ] is completed with reward : [ 4529.184016285826 ] , damage : [ 0.0 ] and lasted [ 219 ] steps.
+Trial : [ 17 ] is completed with reward : [ 5560.856654782354 ] , damage : [ 0.0 ] and lasted [ 239 ] steps.
+Trial : [ 16 ] is completed with reward : [ 4933.441848080583 ] , damage : [ 0.0 ] and lasted [ 228 ] steps.
+Trial : [ 15 ] is completed with reward : [ 4790.773710460316 ] , damage : [ 0.0 ] and lasted [ 225 ] steps.
+Trial : [ 18 ] is completed with reward : [ 4878.847390329593 ] , damage : [ 0.0 ] and lasted [ 233 ] steps.
+Trial : [ 17 ] is completed with reward : [ 4814.770609196356 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 16 ] is completed with reward : [ 4746.20115917657 ] , damage : [ 0.0 ] and lasted [ 222 ] steps.
+Trial : [ 18 ] is completed with reward : [ 4362.877679319469 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 17 ] is completed with reward : [ 4281.3947407252845 ] , damage : [ 0.0 ] and lasted [ 213 ] steps.
+Trial : [ 19 ] is completed with reward : [ 4473.667411868329 ] , damage : [ 0.0 ] and lasted [ 218 ] steps.
+Trial : [ 18 ] is completed with reward : [ 4856.478018300607 ] , damage : [ 0.0 ] and lasted [ 231 ] steps.
+Trial : [ 19 ] is completed with reward : [ 4648.222140611938 ] , damage : [ 0.0 ] and lasted [ 221 ] steps.
+Trial : [ 20 ] is completed with reward : [ 4595.3389350054695 ] , damage : [ 0.0 ] and lasted [ 223 ] steps.
+Trial : [ 20 ] is completed with reward : [ 5133.201372910052 ] , damage : [ 0.0 ] and lasted [ 230 ] steps.
+Trial : [ 19 ] is completed with reward : [ 4672.022160518533 ] , damage : [ 0.0 ] and lasted [ 224 ] steps.
+Trial : [ 21 ] is completed with reward : [ 4566.929258653239 ] , damage : [ 0.0 ] and lasted [ 221 ] steps.
+Trial : [ 21 ] is completed with reward : [ 4811.974131880066 ] , damage : [ 0.0 ] and lasted [ 228 ] steps.
+Trial : [ 20 ] is completed with reward : [ 4769.79696878886 ] , damage : [ 0.0 ] and lasted [ 224 ] steps.
+Trial : [ 22 ] is completed with reward : [ 4649.745893849145 ] , damage : [ 0.0 ] and lasted [ 219 ] steps.
+Trial : [ 21 ] is completed with reward : [ 4781.990435989241 ] , damage : [ 0.0 ] and lasted [ 243 ] steps.
+Trial : [ 22 ] is completed with reward : [ 4903.120539090376 ] , damage : [ 0.0 ] and lasted [ 228 ] steps.
+Trial : [ 23 ] is completed with reward : [ 4656.08308147269 ] , damage : [ 0.0 ] and lasted [ 223 ] steps.
+Trial : [ 23 ] is completed with reward : [ 4483.513641474692 ] , damage : [ 0.0 ] and lasted [ 218 ] steps.
+Trial : [ 22 ] is completed with reward : [ 4663.550086842505 ] , damage : [ 0.0 ] and lasted [ 216 ] steps.
+Trial : [ 24 ] is completed with reward : [ 4371.084122088653 ] , damage : [ 0.0 ] and lasted [ 211 ] steps.

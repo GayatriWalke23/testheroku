@@ -100,7 +100,8 @@ class Server(object):
         clientsConnections = getAllClients()
         self.clients = (clientsConnections)
         # send the model skeleton to all clients
-        self.transmit_model()
+        if(len(clientsConnections)>=3):
+            self.transmit_model()
 
     def transmit_model(self, sampled_client_indices=None):
         """Send the updated global model to selected/all clients."""

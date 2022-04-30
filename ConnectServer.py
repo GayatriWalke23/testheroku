@@ -4,14 +4,14 @@ import time
 TCP_IP = 'localhost'
 TCP_PORT = 9999
 BUFFER_SIZE = 1024
-
+torcs_server = int(input("Enter Torcs Server Port : "))
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((TCP_IP, TCP_PORT))
 
-torcs_server = int(input("Enter Torcs Server Port : "))
 
-recieved_actor = 'received_globalmodel_actor'+str(torcs_server)+'.pth'
-recieved_critic = 'received_globalmodel_critic'+str(torcs_server)+'.pth'
+
+recieved_actor = 'Best_Actor_Weights/received_globalmodel_actor'+str(torcs_server)+'.pth'
+recieved_critic = 'Best Critic_Weights/received_globalmodel_critic'+str(torcs_server)+'.pth'
 send_actor = 'Logs/Weights_Policy/policyweight_'+str(torcs_server)+'.pth'
 send_critic = 'Logs/Weights_Critic/criticweight_'+str(torcs_server)+'.pth'
 message_from_server = " "

@@ -215,7 +215,7 @@ class DDPG():
 
     def steer(self,ob,steer):
 
-        steerLock=0.366519
+        steerLock=0.66519
         maxSpeedDist = 0.6
         steerSensitivityOffset=20.0
         wheelSensitivity=1

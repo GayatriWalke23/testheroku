@@ -2,7 +2,7 @@ import gym
 from gym import spaces
 import numpy as np
 # from os import path
-import Torcs_setup.snakeoil3_gym as snakeoil3
+import snakeoil3_gym as snakeoil3
 import numpy as np
 import copy
 import collections as col
@@ -40,7 +40,7 @@ class TorcsEnv:
             os.system('sh racestart.sh')
         else :
             os.system('sh autostart.sh')
-        
+
         time.sleep(0.5)
 
         """
@@ -107,7 +107,7 @@ class TorcsEnv:
             if ((client.S.d['wheelSpinVel'][2]+client.S.d['wheelSpinVel'][3]) -
                (client.S.d['wheelSpinVel'][0]+client.S.d['wheelSpinVel'][1]) > 5):
                 action_torcs['accel'] -= .2
-                
+
         #  Automatic Gear Change by Snakeoil
         if self.gear_change is True:
             action_torcs['gear'] = this_action['gear']
@@ -151,8 +151,8 @@ class TorcsEnv:
         track = np.array(obs['track'])
         sp = np.array(obs['speedX'])
         #next_segment_radius = np.array(obs['next_segment_radius'])
-        
-        progress = sp* np.cos(obs['angle']) - np.abs(sp*np.sin(obs['angle'])) - sp * np.abs(obs['trackPos']) 
+
+        progress = sp* np.cos(obs['angle']) - np.abs(sp*np.sin(obs['angle'])) - sp * np.abs(obs['trackPos'])
         # progress = progress + ( ( 200 - next_segment_radius + 1)/(next_segment_radius+1) )/(400)
         reward = progress
 
@@ -206,7 +206,7 @@ class TorcsEnv:
                 print("### TORCS is RELAUNCHED ###")
 
         # Modify here if you use multiple tracks in the environment
-        self.client = snakeoil3.Client(p=3001, vision=self.vision)  # Open new UDP in vtorcs
+        self.client = snakeoil3.Client(p=self.port, vision=self.vision)  # Open new UDP in vtorcs
         self.client.MAX_STEPS = np.inf
 
         client = self.client

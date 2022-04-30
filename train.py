@@ -1,5 +1,5 @@
 # Torcs Environment
-from Torcs_setup.gym_torcs import TorcsEnv
+from gym_torcs import TorcsEnv
 import numpy as np
 
 # Init Logging System
